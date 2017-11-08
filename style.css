@@ -24,7 +24,11 @@ nav ul li{
   margin-right: 10px;
 
 }
-
+nav a{
+  color: #007bff;
+  font-size: 18px;
+  text-decoration: none;
+}
 header h3{
   font-size: 30px;
   float: left;
